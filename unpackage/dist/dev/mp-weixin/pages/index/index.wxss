@@ -1,0 +1,66 @@
+.swiper{
+	width: 100%;
+	height: 340rpx;
+}
+.swiper-img{
+	width: 100%;height: 100%;
+}
+.navigation-bar{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	width: 100%;
+	margin: 20rpx 0;
+}
+.navigation-bar-box{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	width:120rpx;
+	margin: 0 33.75rpx;
+}
+.navigation-bar image{
+	height: 120rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+}
+.floor-list{
+	margin-top:40rpx;
+}
+.floor-list .floor-group .floor-title-image{
+	width: 100%;
+	height: 59rpx;
+}
+.floor-image-box{
+	width: 30%;
+	height: 180rpx;
+	float: left;
+	margin-left: 20rpx;
+	margin-bottom: 10rpx;
+}
+.floor-image-list{
+	width: 100%;
+	height: 390rpx;
+	margin-bottom: 15rpx;
+}
+.floor-image-first{
+	width: 30%;
+	height: 370rpx;
+	float: left;
+	margin-left: 20rpx;
+	margin-bottom: 10rpx;
+}
+.floor-image-first image{
+	width: 100%;
+	height: 100%;
+	-webkit-border-radius: 8rpx;
+	        border-radius: 8rpx;
+}
+.floor-image-box image{
+	width: 100%;
+	height: 100%;
+	-webkit-border-radius: 8rpx;
+	        border-radius: 8rpx;
+}
+

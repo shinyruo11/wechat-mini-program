@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "商品分类",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "van-sidebar": "/wxcomponents/vant/dist/sidebar/index",
+    "van-sidebar-item": "/wxcomponents/vant/dist/sidebar-item/index",
+    "van-toast": "/wxcomponents/vant/dist/toast/index",
+    "van-search": "/wxcomponents/vant/dist/search/index"
+  }
+}

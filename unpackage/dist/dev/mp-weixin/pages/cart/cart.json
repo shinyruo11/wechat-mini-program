@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "购物车",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "van-empty": "/wxcomponents/vant/dist/empty/index",
+    "van-toast": "/wxcomponents/vant/dist/toast/index",
+    "van-button": "/wxcomponents/vant/dist/button/index",
+    "van-dialog": "/wxcomponents/vant/dist/dialog/index"
+  }
+}

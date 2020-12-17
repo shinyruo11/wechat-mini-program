@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "收货地址",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "van-empty": "/wxcomponents/vant/dist/empty/index"
+  }
+}

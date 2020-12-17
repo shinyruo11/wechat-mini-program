@@ -1,0 +1,1 @@
+<view><navigator url="../address_add/address_add"><view class="button-add">+添加收货地址</view></navigator><block wx:if="{{isEmpty}}"><van-empty vue-id="8d73d1c0-1" image="error" description="暂无收货地址" bind:__l="__l"></van-empty></block></view>

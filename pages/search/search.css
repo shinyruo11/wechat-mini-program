@@ -1,0 +1,86 @@
+.head{
+	display: flex;
+	height:80rpx;
+	line-height: 70rpx;
+	position: fixed;
+	width: 100%;
+	top: 0;
+	background: white;
+	padding-top: 20rpx;
+	z-index: 10;
+}
+.cancel{
+	width: 15%;
+	text-align: center;
+	line-height: 80rpx;
+	color: grey;
+	font-size: 28rpx;
+}
+.input{
+	width: 80%;
+	border: 2rpx solid white;
+	margin-left:30rpx;
+	height: 50rpx;
+	border-radius: 50rpx;
+	margin-top: 14rpx;
+	padding-left: 25rpx;
+	background: #F7F8FA;
+	color: grey;
+	font-size: 24rpx;
+}
+.placeholder-class{
+	color: #C8C9CC;
+	font-size: 24rpx;
+	line-height: 50rpx;
+}
+.list{
+	width: 690rpx;
+	margin-left: 30rpx;
+	margin-top: 100rpx;
+}
+.list-group{
+	border-bottom: 2rpx solid #f0f0f0;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	height: 80rpx;
+	font-size: 26rpx;
+	line-height: 80rpx;
+}
+.history{
+	margin-top: 120rpx;
+	width: 690rpx;
+	margin-left: 30rpx;
+}
+.history-title{
+	height: 70rpx;
+	width: 100%;
+	display: flex;
+	align-items: center;
+}
+.title-left{
+	width: 650rpx;
+	font-size: 28rpx;
+	font-weight: bold;
+}
+.history-title image{
+	width: 40rpx;
+	height: 40rpx;
+}
+.search image{
+	margin-top: 200rpx;
+}
+.history-group{
+	display: flex;
+	flex-wrap: wrap;
+}
+.group-name{
+	height: 40rpx;
+	line-height: 40rpx;
+	border-radius: 40rpx;
+	background: #F3F3F3;
+	padding: 0 40rpx;
+	font-size: 24rpx;
+	margin-bottom: 20rpx;
+	margin-right: 20rpx;
+}

@@ -1,0 +1,15 @@
+.button-add{
+	width: 710rpx;
+	position: fixed;
+	left:20rpx;
+	bottom: 50rpx;
+	background: red;
+	height: 60rpx;
+	border-radius: 60rpx;
+	text-align: center;
+	color: white;
+	font-size: 24rpx;
+	line-height: 60rpx;
+	letter-spacing: 2rpx;
+	font-weight: bold;
+}

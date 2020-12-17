@@ -1,0 +1,54 @@
+.serach-list{
+	width: 690rpx;
+	margin-left: 30rpx;
+	margin-top: 128rpx;
+	margin-bottom: 30rpx;
+}
+.serach-group{
+	display: flex;
+	align-items: center;
+	width: 100%;
+	margin-bottom: 20rpx;
+}
+.group-left{
+	width: 30%;
+	height: 160rpx;
+	text-align: center;
+}
+.group-left image{
+	width: 160rpx;
+	height: 160rpx;
+	border-radius: 16rpx;
+}
+.group-right{
+	width: 70%;
+	margin-top: 10rpx;
+	margin-left: 5%;
+}
+.right-name{
+	font-size: 28rpx;
+	display: -webkit-box;
+	-webkit-line-clamp: 2;
+	-webkit-box-orient: vertical;
+	overflow: hidden;
+	text-overflow: ellipsis;             
+}
+.right-price{
+	color: red;
+	margin: 15rpx 0;
+}
+.price-icon{
+	font-size: 24rpx;
+}
+.price-number{
+	font-size:30rpx;
+}
+.right-number{
+	font-size: 24rpx;
+}
+.divider{
+	width: 100%;
+	height: 1rpx;
+	background: #f4f4f4;
+	margin-top: 15rpx;
+}

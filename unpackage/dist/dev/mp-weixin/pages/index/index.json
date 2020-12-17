@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "首页",
+  "navigationBarBackgroundColor": "#F96738",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "van-button": "/wxcomponents/vant/dist/button/index",
+    "van-search": "/wxcomponents/vant/dist/search/index",
+    "van-toast": "/wxcomponents/vant/dist/toast/index"
+  }
+}

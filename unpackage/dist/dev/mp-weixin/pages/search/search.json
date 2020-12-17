@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "搜索",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "van-empty": "/wxcomponents/vant/dist/empty/index",
+    "van-dialog": "/wxcomponents/vant/dist/dialog/index"
+  }
+}

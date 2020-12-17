@@ -1,0 +1,66 @@
+.goods-detail{
+	margin-bottom: 30rpx;
+}
+.swiper{
+	width: 100%;
+	height: 750rpx;
+}
+.swiper-img{
+	width: 100%;height: 100%;
+}
+.detail-title{
+	width: 690rpx;
+	margin:20rpx 0 20rpx 30rpx;
+}
+.title-price{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	height: 80rpx;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+}
+.price-left{
+	width: 640rpx;
+	color: red;
+}
+.price-icon{
+	font-size: 28rpx;
+}
+.price-number{
+	font-size: 44rpx;
+}
+.price-right image{
+	width: 50rpx;
+	height: 50rpx;
+}
+.title-name{
+	font-size: 26rpx;
+	font-weight: bold;
+}
+.divider{
+	height: 20rpx;
+	background: #F3F3F3;
+	margin: 10rpx 0;
+}
+.specification-title{
+	font-size: 26rpx;
+	font-weight: bold;
+	padding-left: 30rpx;
+	margin: 10rpx 0;
+}
+.rich-text{
+	width: 710rpx;
+	margin: 20rpx;
+}
+.specification-image{
+	margin-top: 10rpx;
+	width:710rpx;
+	height: 710rpx;
+	margin-left: 20rpx;
+}
+.goods-action{
+	height: 180rpx;
+}
+

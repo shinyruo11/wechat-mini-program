@@ -1,0 +1,60 @@
+.user{
+	background: #F5F5F5;
+	min-height: 100vh;
+}
+.head{
+	height: 240rpx;
+	background-image: url(../../static/user-head-img.jpg);
+	background-size: 100% 100%;
+}
+.user-info{
+	display: flex;
+	margin-left: 30rpx;
+	padding-top:70rpx;
+}
+.user-info image{
+	width: 100rpx;
+	height: 100rpx;
+	border-radius: 100rpx;
+}
+.user-name{
+	margin-left: 30rpx;
+	color: white;
+	font-size: 30rpx;
+	height: 100rpx;
+	line-height: 100rpx;
+	letter-spacing: 4rpx;
+}
+.login-button{
+	height: 100rpx;
+	line-height: 100rpx;
+	background: transparent;
+	border: none;
+	letter-spacing: 4rpx;
+	color: white;
+	padding-left: 0;
+}
+.login-button::after{
+	border: none;
+}
+.goods-class{
+	width: 710rpx;
+	height: 140rpx;
+	position: absolute;
+	top: 200rpx;
+	left: 20rpx;
+	display: flex;
+	background: white;
+	border-radius: 8rpx;
+	align-items: center;
+}
+.class-group{
+	width: 25%;
+	text-align: center;
+	font-size: 24rpx;
+}
+.class-group image{
+	width: 50rpx;
+	height: 50rpx;
+	margin-bottom: 10rpx;
+}

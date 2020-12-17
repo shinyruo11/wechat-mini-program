@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "填写订单",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "van-toast": "/wxcomponents/vant/dist/toast/index"
+  }
+}
